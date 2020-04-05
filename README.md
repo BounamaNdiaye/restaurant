@@ -6,7 +6,7 @@ on a une application mobile de gestion pour restaurant
 
 Caractéristiques :
 
-- l'utulisateu peut:
+- l'utulisateur peut:
 *se connecter
 *s'inscrire 
 *commander un plat 
